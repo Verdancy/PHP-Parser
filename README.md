@@ -1,3 +1,5 @@
+![](https://img.shields.io/packagist/dt/Verdancy/PHP-Parser.svg) ![](https://img.shields.io/github/last-commit/Vverdancy/PHP-Parser.svg) ![](https://img.shields.io/github/license/Verdancy/PHP-Parser.svg)
+
 PHP Parser
 ==========
 
