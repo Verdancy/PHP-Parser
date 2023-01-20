@@ -172,6 +172,3 @@ function test($foo)
 {
 }
 ```
-
-
-
